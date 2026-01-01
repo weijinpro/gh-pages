@@ -3,12 +3,71 @@
     <title>如若清初</title>
     <link href="https://weijinpro.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://weijinpro.github.io/gh-pages" />
-    <updated>2026-01-01T18:31:41+08:00</updated>
+    <updated>2026-01-01T18:53:46+08:00</updated>
     <author>
         <name>最真的梦</name>
     </author>
     <id>https://weijinpro.github.io/gh-pages</id>
 
+    <entry>
+        <title>测试</title>
+        <author>
+            <name>最真的梦</name>
+        </author>
+        <link href="https://weijinpro.github.io/gh-pages/ce-shi.html"/>
+        <id>https://weijinpro.github.io/gh-pages/ce-shi.html</id>
+
+        <updated>2026-01-01T18:53:38+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    📅 2025-12-30🔥 状态：用生命在折腾 李鬼与李逵：我与服务器的三小时生死战 本来只是想部署一个 Memos，结果因为手滑写成了 mones，于是我和服务器一起踏上了一段完全意料之外的冒险旅程。 三小时里，我经历了： 我以为我在部署 Memos，结果我敲的是： pm2 start mones 然后我就开始了漫长的排错之旅，直到最后才意识到： 为了跑 mones，我装了 Node.js 18。结果它占了 80MB 内存，而我的 VPS 只有 250MB。最终我把它卸载得干干净净。 为了纪念这段折腾，我在 Nginx 配置里保留了一句注释： # 曾用于 mones，已废弃（2025-12-30） 四、清理：李鬼退场，世界清净 最终我删除了 mones、Node.js、pm2 进程、反代配置、日志、node_modules……服务器瞬间轻松了几十 MB。 明天我会重新部署真正的 Memos，不用 Docker，不用 Node，只占 20–40MB 内存。 今天的我： 用生命在折腾 用灵魂在认真 用错误在坚持 用三小时换来一句话：&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <!-- 🧨 折腾日记：李鬼与李逵篇 -->
+<article>
+<div class="meta-info">📅 2025-12-30🔥 状态：用生命在折腾</div>
+<h2>李鬼与李逵：我与服务器的三小时生死战</h2>
+<p>本来只是想部署一个 <strong>Memos</strong>，结果因为手滑写成了 <strong>mones</strong>，于是我和服务器一起踏上了一段完全意料之外的冒险旅程。</p>
+<p>三小时里，我经历了：</p>
+<ul>
+<li>反代配置反复横跳</li>
+<li>Node.js 的短命背锅</li>
+<li>pm2 的无限重启</li>
+<li>证书错配导致的“邪门跳转”</li>
+<li>静态博客没有后台的灵魂拷问</li>
+<li>250MB 小机子的内存极限挑战</li>
+</ul>
+<blockquote>“方向错了，努力越大，偏差越大。”</blockquote>
+<h3>一、李鬼登场：mones 是谁？</h3>
+<p>我以为我在部署 Memos，结果我敲的是：</p>
+<pre><code>pm2 start mones</code></pre>
+<p>然后我就开始了漫长的排错之旅，直到最后才意识到：</p>
+<blockquote><strong>mones 根本不是我想要的东西。</strong></blockquote>
+<h3>二、Node.js：短命的背锅侠</h3>
+<p>为了跑 mones，我装了 Node.js 18。结果它占了 80MB 内存，而我的 VPS 只有 250MB。最终我把它卸载得干干净净。</p>
+<h3>三、Nginx：我注释掉了一个时代</h3>
+<p>为了纪念这段折腾，我在 Nginx 配置里保留了一句注释：</p>
+<pre><code># 曾用于 mones，已废弃（2025-12-30）</code></pre>
+<h3>四、清理：李鬼退场，世界清净</h3>
+<p>最终我删除了 mones、Node.js、pm2 进程、反代配置、日志、node_modules……服务器瞬间轻松了几十 MB。</p>
+<h3>五、明天见：真正的 Memos</h3>
+<p>明天我会重新部署真正的 Memos，不用 Docker，不用 Node，只占 20–40MB 内存。</p>
+<h3>六、总结：用生命折腾，用灵魂认真</h3>
+<p>今天的我：</p>
+<ul>
+<li>用生命在折腾</li>
+<li>用灵魂在认真</li>
+<li>用错误在坚持</li>
+<li>用三小时换来一句话：</li>
+</ul>
+<blockquote><strong>写对项目名很重要。</strong></blockquote>
+</article>
+<hr>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>短命的李鬼项目</title>
         <author>

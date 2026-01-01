@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "如若清初",
+    "description": "",
+    "home_page_url": "https://weijinpro.github.io/gh-pages",
+    "feed_url": "https://weijinpro.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "最真的梦"
+    },
+    "items": [
+        {
+            "id": "https://weijinpro.github.io/gh-pages/ni-hao-2026.html",
+            "url": "https://weijinpro.github.io/gh-pages/ni-hao-2026.html",
+            "title": "你好2026",
+            "summary": "新的一年开始了，雪也停了，太阳出来了。静悄悄，只有几个鸟叫声",
+            "content_html": "<p>新的一年开始了，雪也停了，太阳出来了。静悄悄，只有几个鸟叫声</p>",
+            "author": {
+                "name": "最真的梦"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-01T12:03:30+08:00",
+            "date_modified": "2026-01-01T12:04:07+08:00"
+        }
+    ]
+}

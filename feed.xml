@@ -3,12 +3,32 @@
     <title>如若清初</title>
     <link href="https://weijinpro.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://weijinpro.github.io/gh-pages" />
-    <updated>2026-01-01T18:55:41+08:00</updated>
+    <updated>2026-01-01T18:56:39+08:00</updated>
     <author>
         <name>最真的梦</name>
     </author>
     <id>https://weijinpro.github.io/gh-pages</id>
 
+    <entry>
+        <title>你好</title>
+        <author>
+            <name>最真的梦</name>
+        </author>
+        <link href="https://weijinpro.github.io/gh-pages/ni-hao.html"/>
+        <id>https://weijinpro.github.io/gh-pages/ni-hao.html</id>
+
+        <updated>2026-01-01T18:56:39+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    我不好
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>我不好</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>测试</title>
         <author>

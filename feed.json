@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://weijinpro.github.io/gh-pages/duan-ming-de-li-gui-xiang-mu.html",
+            "url": "https://weijinpro.github.io/gh-pages/duan-ming-de-li-gui-xiang-mu.html",
+            "title": "短命的李鬼项目",
+            "summary": "&lt;div class=\"meta-info\"&gt; &lt;span&gt;📅 2025-12-30&lt;/span&gt; &lt;span&gt;🧩 状态：拼错字不改&lt;/span&gt; &lt;/div&gt; &lt;h2&gt;短命的李鬼项目&lt;/h2&gt; &lt;p&gt;偏偏世上真的有一个叫 Mones 的。我要的是 Memos。习惯拼错字而不修改，拼成 Mones。&lt;/p&gt; &lt;h3&gt;一、李鬼登场：mones 是谁？&lt;/h3&gt; &lt;p&gt;我以为我在部署 Memos，结果我敲的是：&lt;/p&gt; &lt;pre&gt;&lt;code&gt;pm2 start mones&lt;/code&gt;&lt;/pre&gt; &lt;p&gt;然后我就开始了漫长的排错之旅，直到最后才意识到：&lt;/p&gt; &lt;blockquote&gt;方向错了，努力越大，偏差越大。&lt;/blockquote&gt;",
+            "content_html": "<p>&lt;div class=\"meta-info\"&gt;<br>    &lt;span&gt;📅 2025-12-30&lt;/span&gt;<br>    &lt;span&gt;🧩 状态：拼错字不改&lt;/span&gt;<br>&lt;/div&gt;<br><br>&lt;h2&gt;短命的李鬼项目&lt;/h2&gt;<br><br>&lt;p&gt;偏偏世上真的有一个叫 Mones 的。我要的是 Memos。习惯拼错字而不修改，拼成 Mones。&lt;/p&gt;<br><br>&lt;h3&gt;一、李鬼登场：mones 是谁？&lt;/h3&gt;<br><br>&lt;p&gt;我以为我在部署 Memos，结果我敲的是：&lt;/p&gt;<br><br>&lt;pre&gt;&lt;code&gt;pm2 start mones&lt;/code&gt;&lt;/pre&gt;<br><br>&lt;p&gt;然后我就开始了漫长的排错之旅，直到最后才意识到：&lt;/p&gt;<br><br>&lt;blockquote&gt;方向错了，努力越大，偏差越大。&lt;/blockquote&gt;</p>",
+            "author": {
+                "name": "最真的梦"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-01T18:27:51+08:00",
+            "date_modified": "2026-01-01T18:27:51+08:00"
+        },
+        {
             "id": "https://weijinpro.github.io/gh-pages/ce-shidi-er-ci-tong-bu-shi-fou-cheng-gong.html",
             "url": "https://weijinpro.github.io/gh-pages/ce-shidi-er-ci-tong-bu-shi-fou-cheng-gong.html",
             "title": "测试，第二次同步是否成功",
